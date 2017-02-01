@@ -1,5 +1,5 @@
 # Purpose of Respository
-This code repository contains all of the code written as part of the blog article [WebApi - Services and DbContexts](https://dotnetcore.gaprogman.com/2017/02/02/tutorial-webapi-services-and-dbcontexts/)
+This code repository contains all of the code written as part of the blog article [Library Check - Services and DbContexts](https://dotnetcore.gaprogman.com/2017/02/02/tutorial-webapi-services-and-dbcontexts/)
 
 ## Build Instructions
 
