@@ -1,5 +1,5 @@
 # Purpose of Respository
-This code repository contains all of the code written as part of the blog article [Library Check – Getting Data From the Database](https://dotnetcore.gaprogman.com/2017/02/09/webapi-tutorial-library-check-getting-data-from-the-database/)
+This code repository contains all of the code written as part of the blog article [Library Check – Extra Controllers and POCO View Models](https://dotnetcore.gaprogman.com/2017/02/15/webapi-tutorial-library-check-extra-controllers-and-poco-view-models)
 
 ## Build Instructions
 
