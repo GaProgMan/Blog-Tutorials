@@ -8,7 +8,7 @@ using webApiTutorial.DatabaseContexts;
 namespace webApiTutorial.Migrations
 {
     [DbContext(typeof(DwContext))]
-    [Migration("20170212181834_AddedCharacterModel")]
+    [Migration("20170214085118_AddedCharacterModel")]
     partial class AddedCharacterModel
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

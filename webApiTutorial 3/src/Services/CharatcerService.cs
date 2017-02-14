@@ -15,7 +15,7 @@ namespace webApiTutorial.Services
         _dwContext = dwContext;
     }
 
-    public Character FindByOrdinal (int id)
+    public Character FindById (int id)
     {
         return BaseQuery()
             .FirstOrDefault(character => character.CharacterId == id);

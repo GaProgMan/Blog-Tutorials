@@ -6,7 +6,7 @@ namespace webApiTutorial.Services
   public interface ICharacterService
   {
     // Search and Get
-    Character FindByOrdinal (int id);
+    Character FindById (int id);
     IEnumerable<Character> Search(string searchKey);
   }
 }
