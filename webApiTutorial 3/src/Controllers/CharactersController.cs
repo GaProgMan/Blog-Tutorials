@@ -17,7 +17,7 @@ namespace webApiTutorial.Controllers
 
         // Get/5
         [HttpGet("Get/{id}")]
-        public JsonResult GetByOrdinal(int id)
+        public JsonResult Get(int id)
         {
             var character = _characterService.FindById(id);
             if (character == null)
