@@ -1,0 +1,26 @@
+[
+    {
+        "CharacterName": "Rincewind",
+        "CharacterOrdinal": "0"
+    },
+    {
+        "CharacterName": "Twoflower",
+        "CharacterOrdinal": "1"
+    },
+    {
+        "CharacterName": "The Luggage",
+        "CharacterOrdinal": "2"
+    },
+    {
+        "CharacterName": "Liessa Wyrmbidder",
+        "CharacterOrdinal": "3"
+    },
+    {
+        "CharacterName" : "Hrun, the Barbarian",
+        "CharacterOrdinal": "4"
+    },
+    {
+        "CharacterName" : "Bel-Shamharoth",
+        "CharacterOrdinal": "5"
+    }
+]
